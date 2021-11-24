@@ -108,3 +108,6 @@ par(mfrow = c(2, 2))
 plot(stepFit)
 
 ```
+
+#### Executive Summary
+The key finding of this analysis is that manual transmission on average has a better miles per gallon (mpg) than its counterpart i.e. automatic transmission.
